@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "598cfe29-10bf-41c4-af46-6dbb0c675286": {
+      "ProjectGuid": "598cfe29-10bf-41c4-af46-6dbb0c675286",
+      "DisplayName": "SocketBasedPubSubServer",
+      "ColorIndex": 0
+    },
+    "79897702-ff3f-40ca-a200-48b18942b8eb": {
+      "ProjectGuid": "79897702-ff3f-40ca-a200-48b18942b8eb",
+      "DisplayName": "SocketBasedPublisher",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "4d394802-efe0-4e68-9a63-73644ea7ba15": {
+      "ProjectGuid": "4d394802-efe0-4e68-9a63-73644ea7ba15",
+      "DisplayName": "SocketBasedSubscriber",
+      "ColorIndex": 2
+    },
+    "a9f4b444-721a-4d6f-bdce-51e1d074ec07": {
+      "ProjectGuid": "a9f4b444-721a-4d6f-bdce-51e1d074ec07",
+      "DisplayName": "SocketBasedSubscriber",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

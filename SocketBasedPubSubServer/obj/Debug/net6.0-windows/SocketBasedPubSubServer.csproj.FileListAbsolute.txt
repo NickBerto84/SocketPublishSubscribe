@@ -1,0 +1,16 @@
+C:\Users\BertorelleN\Documents\SwProjects\Dixell\BasedPubSubUsingSocketProgramming\SocketBasedPubSubServer\bin\Debug\net6.0-windows\SocketBasedPubSubServer.exe
+C:\Users\BertorelleN\Documents\SwProjects\Dixell\BasedPubSubUsingSocketProgramming\SocketBasedPubSubServer\bin\Debug\net6.0-windows\SocketBasedPubSubServer.deps.json
+C:\Users\BertorelleN\Documents\SwProjects\Dixell\BasedPubSubUsingSocketProgramming\SocketBasedPubSubServer\bin\Debug\net6.0-windows\SocketBasedPubSubServer.runtimeconfig.json
+C:\Users\BertorelleN\Documents\SwProjects\Dixell\BasedPubSubUsingSocketProgramming\SocketBasedPubSubServer\bin\Debug\net6.0-windows\SocketBasedPubSubServer.dll
+C:\Users\BertorelleN\Documents\SwProjects\Dixell\BasedPubSubUsingSocketProgramming\SocketBasedPubSubServer\bin\Debug\net6.0-windows\ref\SocketBasedPubSubServer.dll
+C:\Users\BertorelleN\Documents\SwProjects\Dixell\BasedPubSubUsingSocketProgramming\SocketBasedPubSubServer\bin\Debug\net6.0-windows\SocketBasedPubSubServer.pdb
+C:\Users\BertorelleN\Documents\SwProjects\Dixell\BasedPubSubUsingSocketProgramming\SocketBasedPubSubServer\obj\Debug\net6.0-windows\SocketBasedPubSubServer.Server.resources
+C:\Users\BertorelleN\Documents\SwProjects\Dixell\BasedPubSubUsingSocketProgramming\SocketBasedPubSubServer\obj\Debug\net6.0-windows\SocketBasedPubSubServer.csproj.GenerateResource.cache
+C:\Users\BertorelleN\Documents\SwProjects\Dixell\BasedPubSubUsingSocketProgramming\SocketBasedPubSubServer\obj\Debug\net6.0-windows\SocketBasedPubSubServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BertorelleN\Documents\SwProjects\Dixell\BasedPubSubUsingSocketProgramming\SocketBasedPubSubServer\obj\Debug\net6.0-windows\SocketBasedPubSubServer.AssemblyInfoInputs.cache
+C:\Users\BertorelleN\Documents\SwProjects\Dixell\BasedPubSubUsingSocketProgramming\SocketBasedPubSubServer\obj\Debug\net6.0-windows\SocketBasedPubSubServer.AssemblyInfo.cs
+C:\Users\BertorelleN\Documents\SwProjects\Dixell\BasedPubSubUsingSocketProgramming\SocketBasedPubSubServer\obj\Debug\net6.0-windows\SocketBasedPubSubServer.csproj.CoreCompileInputs.cache
+C:\Users\BertorelleN\Documents\SwProjects\Dixell\BasedPubSubUsingSocketProgramming\SocketBasedPubSubServer\obj\Debug\net6.0-windows\SocketBasedPubSubServer.dll
+C:\Users\BertorelleN\Documents\SwProjects\Dixell\BasedPubSubUsingSocketProgramming\SocketBasedPubSubServer\obj\Debug\net6.0-windows\ref\SocketBasedPubSubServer.dll
+C:\Users\BertorelleN\Documents\SwProjects\Dixell\BasedPubSubUsingSocketProgramming\SocketBasedPubSubServer\obj\Debug\net6.0-windows\SocketBasedPubSubServer.pdb
+C:\Users\BertorelleN\Documents\SwProjects\Dixell\BasedPubSubUsingSocketProgramming\SocketBasedPubSubServer\obj\Debug\net6.0-windows\SocketBasedPubSubServer.genruntimeconfig.cache

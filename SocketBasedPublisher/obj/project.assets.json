@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows10.0.22621": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net6.0-windows10.0.22621": []
+  },
+  "packageFolders": {
+    "C:\\Users\\BertorelleN\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\BertorelleN\\Documents\\GitHub\\SocketPublishSubscribe\\SocketBasedPublisher\\SocketBasedPublisher.csproj",
+      "projectName": "SocketBasedPublisher",
+      "projectPath": "C:\\Users\\BertorelleN\\Documents\\GitHub\\SocketPublishSubscribe\\SocketBasedPublisher\\SocketBasedPublisher.csproj",
+      "packagesPath": "C:\\Users\\BertorelleN\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\BertorelleN\\Documents\\GitHub\\SocketPublishSubscribe\\SocketBasedPublisher\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\BertorelleN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows10.0.22621"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\BertorelleN\\Documents\\Luxottica\\Automation\\DevOps\\WIP\\AvvitaturaUniversale\\AvvitaturaUniversale\\src\\packages": {},
+        "C:\\Users\\BertorelleN\\Documents\\Luxottica\\Automation\\DevOps\\WIP\\TestDoppiaCameraUnivisionOmnicore\\src": {},
+        "C:\\Users\\BertorelleN\\Documents\\Luxottica\\Automation\\DevOps\\WIP\\UnivisionPackages": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows10.0.22621": {
+          "targetAlias": "net6.0-windows10.0.22621.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows10.0.22621": {
+        "targetAlias": "net6.0-windows10.0.22621.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.Windows.SDK.NET.Ref",
+            "version": "[10.0.22621.28, 10.0.22621.28]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.Windows.SDK.NET.Ref": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.310\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
