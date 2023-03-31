@@ -25,7 +25,7 @@ src/HMI/obj/xdoc
 Data/logs
 /bin/Debug
 bin/
-SocketPublishSubscribe\SocketBasedPublisher\bin\Debug\net6.0-windows
+obj/
 
 # Include NuGets build folder
 
