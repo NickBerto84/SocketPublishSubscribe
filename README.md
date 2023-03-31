@@ -1,5 +1,5 @@
 # SocketPublishSubscribe
-Implementation of a topic based Publish Subscribe design pattern using socket programming, and a proprietary messaging protocol.
+Implementation of a topic based Publish Subscribe design pattern using socket programming and a proprietary messaging protocol.
 
 # What is topic based Publish Subscribe design pattern?
 In a topic based Publish-Subscribe pattern, sender applications tag each message with the name of a topic, instead of referencing specific receivers. The messaging system then sends the message to all applications that have asked to receive messages on that topic. Message senders need only concern themselves with creating the original message, and can leave the task of servicing the receivers to the messaging infrastructure.
