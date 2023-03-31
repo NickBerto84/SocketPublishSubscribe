@@ -26,14 +26,11 @@ namespace SocketBasedSubscriber
         public Subscriber()
         {
             InitializeComponent();
-
             string serverIP = ConfigurationManager.AppSettings["ServerIP"];
             IPAddress serverIPAddress = IPAddress.Parse(serverIP);
             int serverPort = Convert.ToInt32(ConfigurationManager.AppSettings["ServerPort"]);
             _client = new Socket(AddressFamily.InterNetwork, SocketType.Dgram, ProtocolType.Udp);
-            //_client = new Socket(AddressFamily.InterNetwork, SocketType.Dgram, ProtocolType.Tcp);
             _remoteEndPoint = new IPEndPoint(serverIPAddress, serverPort);
-
             txtTopicName.Text = "Nick";
         }
 

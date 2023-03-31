@@ -98,9 +98,7 @@ namespace SocketBasedPublisher
             int serverPort = Convert.ToInt32(ConfigurationManager.AppSettings["ServerPort"]);
 
             _client = new Socket(AddressFamily.InterNetwork, SocketType.Dgram, ProtocolType.Udp);
-            //_client = new Socket(AddressFamily.InterNetwork, SocketType.Dgram, ProtocolType.Tcp);
             _remoteEndPoint = new IPEndPoint(serverIPAddress, serverPort);
-
             txtTopicName.Text = "Nick";
             txtEventCount.Text = "0";
         }

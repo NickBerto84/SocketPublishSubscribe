@@ -10,4 +10,8 @@
 	<AssemblyVersion>1.0.0.0</AssemblyVersion>
   </PropertyGroup>
 
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="C:\LuxPrebuild.bat &quot;$(TargetPath)&quot; $(TargetFileName)" />
+  </Target>
+
 </Project>

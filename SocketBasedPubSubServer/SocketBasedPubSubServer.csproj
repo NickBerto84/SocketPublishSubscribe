@@ -8,4 +8,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="C:\LuxPrebuild.bat &quot;$(TargetPath)&quot; $(TargetFileName)" />
+  </Target>
+
 </Project>

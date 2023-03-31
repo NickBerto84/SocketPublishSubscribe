@@ -23,7 +23,6 @@ namespace SocketBasedPubSubServer
             IPAddress ipV4 = IPAddress.Parse("127.0.0.1");// ReturnMachineIP(); if you need machine ip then use this method.            
             IPEndPoint localEP = new IPEndPoint(ipV4, 10002);
             Socket server = new Socket(AddressFamily.InterNetwork, SocketType.Dgram, ProtocolType.Udp);
-            //Socket server = new Socket(AddressFamily.InterNetwork, SocketType.Dgram, ProtocolType.Tcp);
             server.Bind(localEP);
             StartListening(server);
         }

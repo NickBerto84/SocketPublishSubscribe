@@ -21,12 +21,9 @@ namespace SocketBasedPubSubServer
         private void HostSubscriberService()
         {
             IPAddress ipV4 = IPAddress.Parse("127.0.0.1");// ReturnMachineIP(); if you need machine ip then use this method.The method is available in PublishService.cs            
-
             IPEndPoint localEP = new IPEndPoint(ipV4, 10001);
-            //Socket server = new Socket(AddressFamily.InterNetwork, SocketType.Dgram, ProtocolType.Tcp);
             Socket server = new Socket(AddressFamily.InterNetwork, SocketType.Dgram, ProtocolType.Udp);
             server.Bind(localEP);
-
             StartListening(server);
         }
 
